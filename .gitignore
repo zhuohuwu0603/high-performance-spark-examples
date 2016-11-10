@@ -30,3 +30,4 @@ sbt/*launch*.jar
 *.so
 *.so.0.0.0
 *.so.0
+/.idea/
